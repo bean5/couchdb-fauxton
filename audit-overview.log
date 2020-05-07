@@ -1,0 +1,18 @@
+      2 [90m│[39m High          [90m│[39m Arbitrary Code Execution                                     [90m│[39m
+      5 [90m│[39m High          [90m│[39m Code Injection                                               [90m│[39m
+      1 [90m│[39m High          [90m│[39m Denial-of-Service Extended Event Loop Blocking               [90m│[39m
+      1 [90m│[39m High          [90m│[39m Denial-of-Service Memory Exhaustion                          [90m│[39m
+      1 [90m│[39m High          [90m│[39m Insufficient Entropy                                         [90m│[39m
+     20 [90m│[39m High          [90m│[39m Prototype Pollution                                          [90m│[39m
+      1 [90m│[39m High          [90m│[39m Prototype Pollution Protection Bypass                        [90m│[39m
+      5 [90m│[39m High          [90m│[39m Regular Expression Denial of Service                         [90m│[39m
+      1 [90m│[39m Low           [90m│[39m Arbitrary File Write                                         [90m│[39m
+      2 [90m│[39m Low           [90m│[39m Cryptographically Weak PRNG                                  [90m│[39m
+      1 [90m│[39m Low           [90m│[39m Denial of Service                                            [90m│[39m
+      1 [90m│[39m Low           [90m│[39m Directory Traversal                                          [90m│[39m
+      1 [90m│[39m Low           [90m│[39m Incorrect Handling of Non-Boolean Comparisons During         [90m│[39m
+      1 [90m│[39m Low           [90m│[39m methodOverride Middleware Reflected Cross-Site Scripting     [90m│[39m
+    322 [90m│[39m Low           [90m│[39m Prototype Pollution                                          [90m│[39m
+      5 [90m│[39m Low           [90m│[39m Regular Expression Denial of Service                         [90m│[39m
+      1 [90m│[39m Low           [90m│[39m Root Path Disclosure                                         [90m│[39m
+  18120 [90m│[39m Low           [90m│[39m Validation Bypass                                            [90m│[39m
